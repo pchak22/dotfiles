@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = payel.chak22@gmail.com
+	name = Payel Chakraborty
